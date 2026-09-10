@@ -9,7 +9,7 @@
 <!-- Banner aesthetic com nome -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=87CEEB&center=true&vCenter=true&width=650&lines=%F0%9F%A4%8D+Ol%C3%A1%2C+eu+sou+Lua+Barros+%F0%9F%A4%8D;%F0%9F%90%9A+Bem-vindos+ao+meu+universo+%F0%9F%8C%99;%F0%9F%90%8D+Estudante+de+Python+%E2%9C%A8;%F0%9F%AB%A7+Navegando+no+mundo+da+programa%C3%A7%C3%A3o+%E2%9B%B5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=87CEEB&center=true&vCenter=true&width=650&lines=+eu+sou+Lua+Barros+𓆉࿐ 𖦹·˚+Bem-vindos+ao+meu+universo+%F0%9F%8C%99;%F0%9F%90%8D+Estudante+de+Python+%E2%9C%A8;%F0%9F%AB%A7+Navegando+no+mundo+da+programa%C3%A7%C3%A3o+%E2%9B%B5" alt="Typing SVG" />
   </a>
 </p>
 
