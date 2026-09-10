@@ -3,7 +3,7 @@
 <!-- ############################################ -->
 
 <p align="center">
-  <i>⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆</i>
+  <i>⋆　˚𓆉࿐ 𖦹ׂ🌊༊·˚｡˚ ⋆</i>
 </p>
 
 <!-- Banner aesthetic com nome -->
@@ -34,11 +34,11 @@
 ## 🌙 Sobre mim
 
 <p align="center">
-  <i>🤍 Iniciante em programação — começando com Python 🐍<br>
+  <i> ༊·˚ Iniciante em programação — começando com Python 🐍<br>
   Aprendendo lógica, estruturas de dados e automação<br>
   Meta: concluir meus primeiros projetos e contribuir em open source<br>
   
-  🕊️ Como me encontrar: <b>@luabarrosc_</b></i>
+   𖦹ׂ Como me encontrar: <b>@luabarrosc_</b></i>
 </p>
 
 <p align="center">
