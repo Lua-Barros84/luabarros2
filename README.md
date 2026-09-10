@@ -35,8 +35,8 @@
 
 <p align="center">
   <i>🤍 Iniciante em programação — começando com Python 🐍<br>
-  🫧 Aprendendo lógica, estruturas de dados e automação<br>
-  💎 Meta: concluir meus primeiros projetos e contribuir em open source<br>
+  Aprendendo lógica, estruturas de dados e automação<br>
+  Meta: concluir meus primeiros projetos e contribuir em open source<br>
   
   🕊️ Como me encontrar: <b>@luabarrosc_</b></i>
 </p>
@@ -53,11 +53,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-AEE1F5?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-AEE1F5?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Markdown-AEE1F5?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  
 </p>
 
 <p align="center">
@@ -68,7 +66,7 @@
   <i>˚₊· ͟͟͞͞➳❥ Minha frase do momento</i>
 </p>
 
-## 💭 Frase do momento
+##  Frase do momento
 
 <p align="center">
   <i>"A jornada de mil milhas começa com um único passo."<br>
@@ -85,6 +83,6 @@
 </p>
 
 <p align="center">
-  <i>⋆ ˚୨୧⋆｡˚ ⋆<br>
+  <i>⋆ "tchau!˚୨୧⋆｡˚ ⋆<br>
   </i>
 </p>
